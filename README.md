@@ -11,7 +11,8 @@ $ cd myproject
 $ python manage.py migrate
 $ python manage.py runserver
 
-Application is started at 
+Application is started at
 
 127.0.0.1:8000
+
 
